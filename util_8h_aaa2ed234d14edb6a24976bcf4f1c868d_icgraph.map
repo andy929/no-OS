@@ -1,0 +1,9 @@
+<map id="hweight8" name="hweight8">
+<area shape="rect" id="node1" title=" " alt="" coords="405,107,488,133"/>
+<area shape="rect" id="node2" href="$ad5592r_8h.html#a84eb5c0ee68ab812bf4c0bf7c380f114" title=" " alt="" coords="175,5,357,32"/>
+<area shape="rect" id="node3" href="$ad5593r_8h.html#ad2ffdbcc3244bea57c95c127078f667c" title=" " alt="" coords="175,56,357,83"/>
+<area shape="rect" id="node4" href="$iio__ad713x_8c.html#ac3962ef17b0895a08df1f0fc994fa919" title="Read chunk of data from RAM to pbuf. Call &quot;iio_ad713x_transfer_dev_to_mem&quot; first. This function is pr..." alt="" coords="186,107,346,133"/>
+<area shape="rect" id="node6" href="$demo__dev_8h.html#a03b33fa8cc7a69aa0180790c68495811" title="Read chunk of data from RAM to pbuf. Call &quot;iio_demo_transfer_dev_to_mem&quot; first. This function is prob..." alt="" coords="191,157,341,184"/>
+<area shape="rect" id="node7" href="$ad9371_2src_2app_2headless_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="239,208,293,235"/>
+<area shape="rect" id="node5" href="$iio__ad713x_8h.html#a259a55182ae9a8bbf607f56a79f97f45" title="Init for reading/writing and parameterization of a ad9361 device." alt="" coords="5,107,127,133"/>
+</map>
