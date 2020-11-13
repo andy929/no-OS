@@ -409,7 +409,7 @@ int32_t xilinx_xcvr_calc_cpll_config(struct xilinx_xcvr *xcvr,
 	switch (xcvr->type) {
 	case XILINX_XCVR_TYPE_S7_GTX2:
 		vco_min = 1600000;
-		vco_max = 3300000;
+		vco_max = 5000000;
 		break;
 	case XILINX_XCVR_TYPE_US_GTH3:
 	case XILINX_XCVR_TYPE_US_GTH4:
